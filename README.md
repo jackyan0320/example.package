@@ -1,0 +1,18 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+example.package
+===============
+
+<!-- badges: start -->
+<!-- badges: end -->
+The goal of example.package is to learn how to write r packages using the [tutorial](http://p8105.com/writing_r_packages_i.html) provided in the course [P8105 Data Science I](http://p8105.com/index.html)
+
+Installation
+------------
+
+You can install the development version from [GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("jackyan0320/example.package")
+```
